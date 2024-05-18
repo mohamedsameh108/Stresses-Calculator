@@ -1,8 +1,8 @@
 # Stresses and Strains Calculator
 
 ## Description
-The project is designed to solve stress and strain analysis problems using Mohr's circle and plotting sketches. 
-This project was created and developed by Group 5 in Batch 59 from the BioMedical Engineering department at the Faculty of Engineering, Helwan University (HUFE BME B59 G5).
+- The project is designed to solve stress and strain analysis problems using Mohr's circle and plotting sketches. 
+- This project was created and developed by Group 5 in Batch 59 from the BioMedical Engineering department at the Faculty of Engineering, Helwan University (HUFE BME B59 G5).
 
 ## Group Members
 1. AbdulAzeem Lotfy Elsharkawy
