@@ -1,0 +1,76 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2472683410" file="D:\College\Stress Analysis\Matlab Project\matlabScript\Stresses Calculator.prj" location="D:\College\Stress Analysis\Matlab Project\matlabScript" name="Stresses Calculator" target="target.mlapps" target-name="Package App">
+    <param.appname>Stresses Calculator</param.appname>
+    <param.authnamewatermark>HUFE BME B59 G5</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>The project is designed to solve stress and strain analysis problems using Mohr's circle and plotting sketches.</param.summary>
+    <param.description>This project was created and developed by Group 5 in Batch 59 from BioMedical Engineering department at Faculty of Engineering, Helwan University.
+Group Members:
+1- AbdulAzeem Lotfy Elsharkawy
+2- Amr Mohamed Sayed
+3- Mahmoud Ahmed Zaalouk
+4- Mohamed Farahat Hassan
+5- Mohamed Sameh Mohamed
+6- Youssef Gamal Hussein</param.description>
+    <param.screenshot>C:\Users\Sameh\AppData\Local\Temp\tp86f4f111_d352_4a1e_b48d_b3c3ae19ae7a.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>D:\College\Stress Analysis\desktop app\Matlab app installer</param.output>
+    <param.guid>20499e35-9982-4022-baee-f81a1dabe6ad</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\StressesCalculator.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\calculator.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\College\Stress Analysis\desktop app" name="Matlab app installer" optional="false">D:\College\Stress Analysis\desktop app\Matlab app installer</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>E:\MatLab</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
