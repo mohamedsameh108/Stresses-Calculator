@@ -20,4 +20,4 @@ This project was created and developed by Group 5 in Batch 59 from the BioMedica
 - Watch this video to learn how to install and use the desktop version: [Video Link](https://drive.google.com/drive/u/1/folders/1deceUrUcC-1uXXB9ki2-LbuHlm3aG5FT).
 
 ## Screenshots
-- !(https://github.com/mohamedsameh108/Stresses-Calculator/blob/main/app%20screenshot.jpg).
+![App Screenshot](https://github.com/mohamedsameh108/Stresses-Calculator/blob/main/app%20screenshot.jpg).
